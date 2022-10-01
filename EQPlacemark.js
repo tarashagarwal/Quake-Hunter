@@ -16,7 +16,7 @@ define(['./worldwind.min'],
             var placemark, highlightAttributes,
                 placemarkAttributes = new WorldWind.PlacemarkAttributes(null);
 
-            var green = ('rgb(0, 255, 0)'),
+            var green = ('rgb(0, 0, 0)'),
                 yellow = ('rgb(255, 255, 0)'),
                 orange = ('rgb(255, 165, 0)'),
                 red = ('rgb(255, 0, 0)'),
